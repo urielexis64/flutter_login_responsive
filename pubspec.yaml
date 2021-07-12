@@ -29,6 +29,7 @@ environment:
 dependencies:
     flutter:
         sdk: flutter
+    after_layout: ^1.1.0
     flutter_svg: ^0.22.0
 
 dev_dependencies:
